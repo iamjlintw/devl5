@@ -4,18 +4,18 @@ GO
 
 
 #gitignore sample
-
-.idea/
-/public/storage
-public/fileupload/*.*
-Homestead.yaml
-Homestead.json
-.env
-!.gitignore
+======================
+>.idea/
+>/public/storage
+>public/fileupload/*.*
+>Homestead.yaml
+>Homestead.json
+>.env
+>.gitignore
 
 
 #.env sample
-
+==================
 APP_ENV=local
 APP_KEY=aaa
 APP_DEBUG=true
