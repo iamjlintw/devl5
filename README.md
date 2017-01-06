@@ -5,13 +5,13 @@ GO
 
 #gitignore sample
 ======================
->.idea/
->/public/storage
->public/fileupload/*.*
->Homestead.yaml
->Homestead.json
->.env
->.gitignore
+>.idea/  
+>/public/storage  
+>public/fileupload/*.*  
+>Homestead.yaml  
+>Homestead.json  
+>.env  
+>.gitignore  
 
 
 #.env sample
