@@ -27,11 +27,8 @@ LIVE_URL = http://live.servicedoamin/
 
 
 DB1_HOST=192.168.10.1  
-
 DB1_DATABASE=DB1  
-
 DB1_USERNAME=db1_user  
-
 DB1_PASSWORD=db1_password  
 
 
