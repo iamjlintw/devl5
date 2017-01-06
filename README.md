@@ -38,19 +38,12 @@ DB2_USERNAME=db2_user
 DB2_PASSWORD=db2_password  
 
 DB3_HOST=192.168.10.3   
-
 DB3_DATABASE=DB3    
-
 DB3_USERNAME=db3_user    
-
 DB3_PASSWORD=db3_password    
-
 ROADCAST_DRIVER=log    
-
 CACHE_DRIVER=file    
-
 SESSION_DRIVER=file    
-
 QUEUE_DRIVER=sync    
 
 
